@@ -34,6 +34,9 @@
     "@storybook/addon-actions": "^5.2.1",
     "@storybook/addon-links": "^5.2.1",
     "@storybook/addons": "^5.2.1",
-    "@storybook/react": "^5.2.1"
+    "@storybook/react": "^5.2.1",
+    "add": "^2.0.6",
+    "or": "^0.2.0",
+    "yarn": "^1.17.3"
   }
 }
